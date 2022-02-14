@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivansh singh
 - 👀 I’m interested in Android Developing
 - 🌱 I’m currently learning Android
-- 📫 How to reach me shivanshsingh0504@gmail.com
+- 📫 To reach me shivanshsingh0504@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
